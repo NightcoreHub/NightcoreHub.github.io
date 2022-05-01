@@ -1,0 +1,14 @@
+.dog {
+    margin-top: 5%;
+}
+
+body{
+        
+        color: white;
+        text-align: center;
+        font-size: xx-large;
+        background-image: radial-gradient(circle at center, grey 99%, rgb(56, 55, 55) 1% );
+        background-repeat: no-repeat;
+
+}
+
